@@ -1,13 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: dummy:trigger
-  title: Dummy Trigger for Workflow
-  authors:
-  - Gemini CLI
-  publisher: PwnHunter
-  date: '2026-05-27'
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1007/978-3-031-80597-4_35
   title: Compression Strength of Self-compacting Rubberized Concrete as a Function
     of the Content of Recycled Rubber
@@ -825,7 +817,7 @@
   authors:
   - Adeyemi Adesina
   publisher: Materials Science Forum
-  date: '2019-08-01'
+  date: '2019-08-16'
   link: https://doi.org/gsttb6
   orcid: 0000-0002-7602-3896
   plugin: orcid.py
@@ -836,7 +828,7 @@
   authors:
   - Adeyemi Adesina
   publisher: Materials Science Forum
-  date: '2019-08-01'
+  date: '2019-08-16'
   link: https://doi.org/gsttb7
   orcid: 0000-0002-7602-3896
   plugin: orcid.py
